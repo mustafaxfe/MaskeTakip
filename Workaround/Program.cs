@@ -95,7 +95,6 @@ namespace Workaround
         //public string ad = "Mustafa";
         //public string soyad = "Sarıalp";
         //public int dogumYili = 1989;
-        //public long tcNo = 14561522758;
         public string Ad { get; set; }
         public string Soyad { get; set; }
         public int DogumYili { get; set; }
