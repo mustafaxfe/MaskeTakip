@@ -83,7 +83,7 @@ namespace Workaround
             string ad = "Mustafa";
             string soyad = "Sarıalp";
             int dogumYili = 1989;
-            long tcNo = 14561522758;
+            long tcNo = 111222334455;
 
             Console.WriteLine(tutar * 1.18);
             Console.WriteLine(tutar * 1.18);
