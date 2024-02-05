@@ -53,10 +53,10 @@ namespace Workaround
                 Console.WriteLine(sehir);
             }
             Entities.Concrete.Person person1 = new Entities.Concrete.Person();
-            person1.FirstName = "Hakan";
-            person1.LastName = "Ocak";
-            person1.DateofBirthYear = 1988;
-            person1.NationalIdentity = 12345678910;
+            person1.FirstName = "Mustafa";
+            person1.LastName = "SARIALP";
+            person1.DateofBirthYear = 1989;
+            person1.NationalIdentity = 11123421222;
             PttManager pttManager = new PttManager(new PersonManager());
             pttManager.GiveMask(person1);
 
